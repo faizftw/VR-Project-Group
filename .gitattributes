@@ -1,3 +1,4 @@
 Assets/Fantasy[[:space:]]Forest[[:space:]]Environment/Scenes/*.asset filter=lfs diff=lfs merge=lfs -text
 VR[[:space:]]project.apk filter=lfs diff=lfs merge=lfs -text
 *.apk filter=lfs diff=lfs merge=lfs -text
+Aplikasi/*.apk filter=lfs diff=lfs merge=lfs -text
