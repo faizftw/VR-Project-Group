@@ -10,4 +10,3 @@
 ![1](/preview%20img/Screenshot%202023-12-03%20195751.png)
 ![2](/preview%20img/Screenshot%202023-12-03%20195718.png)
 ![3](/preview%20img/Screenshot%202023-12-03%20195647.png)
-![4](/preview%20img/Screenshot%202023-12-03%20195558.png)
